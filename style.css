@@ -146,11 +146,11 @@ aside .logo-header .logo img{
     height: 2rem;
 }
 
-aside .logo h2{
+aside .logo h2, aside .logo span{
     font-size: 1.2rem;
 }
 
-aside .logo-header .close{
+asideclose .logo-header {
     display: none;
 }
 
